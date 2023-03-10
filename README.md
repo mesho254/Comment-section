@@ -28,7 +28,7 @@ I also fulfilled to extra features:
 
 ### Links
 
-- Live Site URL: [Here](https://qntek.github.io/react-comment-section/)
+- Live Site URL: [Here](https://comment-section.vercel.app/)
 
 ### Built with
 
@@ -40,8 +40,8 @@ I also fulfilled to extra features:
 
 ## Author
 
-- Website - [GitHub](https://github.com/qntek)
-- Frontend Mentor - [@qntek](https://www.frontendmentor.io/profile/qntek)
-- Twitter - [@qnciu](https://www.twitter.com/qnciu)
+- Website - [GitHub](https://github.com/mesho254)
+- Frontend Mentor - [@mesho254](https://www.frontendmentor.io/profile/mesho254)
+- Twitter - [@dimeshak](https://www.twitter.com/@dimeshak)
 
 Any feedback is more than welcome. Feel free to contact me.
