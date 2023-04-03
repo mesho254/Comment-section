@@ -53,5 +53,5 @@
 		"html-webpack-plugin": "^5.5.0",
 		"url-loader": "^4.1.1"
 	},
-	"homepage": "https://qntek.github.io/react-comment-section"
+	"homepage": "."
 }
